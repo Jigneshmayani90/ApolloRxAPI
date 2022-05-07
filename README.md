@@ -7,7 +7,7 @@ GraphQL (Apollo) API Request by RxSwift
 
 [![Swift 5](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
-[![GraphQL](https://img.shields.io/badge/GraphQL-purpel.svg?style=flat)](https://graphql.org/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-purple.svg?style=flat)](https://graphql.org/)
 
 ## Requirements
 
