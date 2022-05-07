@@ -1,0 +1,48 @@
+PODS:
+  - Apollo (0.39.0):
+    - Apollo/Core (= 0.39.0)
+  - Apollo/Core (0.39.0)
+  - Apollo/SQLite (0.39.0):
+    - Apollo/Core
+    - SQLite.swift (~> 0.12.2)
+  - Apollo/WebSocket (0.39.0):
+    - Apollo/Core
+    - Starscream (~> 3.1.1)
+  - RxCocoa (6.0.0):
+    - RxRelay (= 6.0.0)
+    - RxSwift (= 6.0.0)
+  - RxRelay (6.0.0):
+    - RxSwift (= 6.0.0)
+  - RxSwift (6.0.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - Apollo
+  - Apollo/SQLite
+  - Apollo/WebSocket
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Apollo
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SQLite.swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Apollo: f6c6410ebee82dd5846be87b81cedc8bc7754a82
+  RxCocoa: 3f79328fafa3645b34600f37c31e64c73ae3a80e
+  RxRelay: 8d593be109c06ea850df027351beba614b012ffb
+  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: ed3d0f589a35ba1156afc6297485d376f377ad35
+
+COCOAPODS: 1.10.1
